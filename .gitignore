@@ -1,3 +1,9 @@
+/data/
+/results/
+/storage/
+*.png
+.idea/workspace.xml
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
